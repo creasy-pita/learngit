@@ -6,3 +6,4 @@ git unneed to commit message;
 change in develop branch
 change 7
 change in  /e/work/myproject/python/learngit 
+change in  /e/work/myproject/python/learngit  again
