@@ -5,5 +5,4 @@ Git tracks changes of files.
 git unneed to commit message;
 change in develop branch
 change 7
-change in  /e/work/myproject/python/learngit 
-change in  /e/work/myproject/python/learngit  again
+I want say  I'm  a change in  /e/work/myproject/python/learngit 
